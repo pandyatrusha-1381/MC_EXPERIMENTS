@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <color name="bgMain">#0A192F</color>
+    <color name="textPrimary">#EAEAFF</color>
+    <color name="accentGreen">#22C55E</color>
+    <color name="btnBlue">#1E3A8A</color>
+    <color name="btnRed">#DC2626</color>
+    <color name="highlightText">#67E8F9</color>
+
+</resources>
+

@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="accentGreen">#22C55E</color>
+    <color name="bgMain">#0A192F</color>
+    <color name="btnBlue">#1E3A8A</color>
+    <color name="btnRed">#DC2626</color>
+    <color name="highlightText">#67E8F9</color>
+    <color name="textPrimary">#EAEAFF</color>
+    <dimen name="activity_horizontal_margin">16dp</dimen>
+    <dimen name="activity_vertical_margin">16dp</dimen>
+    <string name="action_settings">About Developer</string>
+    <string name="app_name">BluetoothFileTransfer</string>
+    <string name="hello_world">Hello world!</string>
+    <style name="AppTheme" parent="Theme.AppCompat.Light.DarkActionBar">
+        
+    </style>
+</resources>
